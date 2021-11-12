@@ -12,7 +12,7 @@ Hey! I'm Vijeet, a Software Engineer with an educational background in Computer 
 
 ### Data Science
 
-<img src="https://img.shields.io/badge/Pandas-2c51cd?style=for-the-badge&logo=pandas&logoColor=black"> 
+<img src="https://img.shields.io/badge/Pandas-2c51cd?style=for-the-badge&logo=pandas&logoColor=black"> <img src="https://img.shields.io/badge/Tensorflow-d48dea?style=for-the-badge&logo=tensorflow&logoColor=black"> <img src="https://img.shields.io/badge/Numpy-57b4b4?style=for-the-badge&logo=numpy&logoColor=black"> <img src="https://img.shields.io/badge/SKLEARN-683c26?style=for-the-badge&logo=scikit-learn&logoColor=black"> 
 
 
 ### MEAN Stack
