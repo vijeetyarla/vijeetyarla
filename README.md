@@ -8,20 +8,15 @@ Hey! I'm Vijeet, a Software Engineer with an educational background in Computer 
 
 ### Basics
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Solidity-C99D66?style=for-the-badge&logo=ethereum&logoColor=black"> <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=black"> 
+<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Solidity-C99D66?style=for-the-badge&logo=ethereum&logoColor=black"> <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=black"> 
+
+### Data Science
 
 
-### PERN Stack
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://camo.githubusercontent.com/58920d1bb0091ddb32d21ded6dcfcbc742121f6fa0786e3ea5e7fd23274cd60f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d3430344435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 ### MEAN Stack
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://camo.githubusercontent.com/58920d1bb0091ddb32d21ded6dcfcbc742121f6fa0786e3ea5e7fd23274cd60f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d3430344435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-
-### CSS Frameworks
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://camo.githubusercontent.com/58920d1bb0091ddb32d21ded6dcfcbc742121f6fa0786e3ea5e7fd23274cd60f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d3430344435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 ### Workflow
 
