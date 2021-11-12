@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-Hey! I'm Vijeet, a Software Engineer with an educational background in Computer Science and Data Science. I'm passionate about the future of Human-Computer Interaction and how scientific innovations will change that. Also passionate about blockchain and the various 'social good' use cases of it. Check out <a href="pryzed.io">pryzed.io</a> and let me know if you'd want to help!
+Hey! I'm Vijeet, a Software Engineer with an educational background in Computer Science and Data Science. I'm passionate about the future of Human-Computer Interaction and how scientific innovations will change that. Also passionate about blockchain and the various 'social good' use cases of it. Check out <a href="https://pryzed.io">pryzed.io</a> and let me know if you'd want to help!
 
 ## Technologies 💻
 
