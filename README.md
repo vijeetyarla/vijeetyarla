@@ -12,6 +12,7 @@ Hey! I'm Vijeet, a Software Engineer with an educational background in Computer 
 
 ### Data Science
 
+<img src="https://img.shields.io/badge/Pandas-2c51cd?style=for-the-badge&logo=pandas&logoColor=black"> 
 
 
 ### MEAN Stack
