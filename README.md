@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-Hey! I'm Vijeet, a Software Engineer with an educational background in Computer Science and Data Science. I'm passionate about the future of Human-Computer Interaction and how scientific innovations will change that. @ Deloitte since 2022 working as a SWE in the Cyber Risk team. Cybersecurity for AI is one of my biggest focuses right now.
+Hey! I'm Vijeet, a Software Engineer with an educational background in Computer Science and Data Science. I'm passionate about the future of Human-Computer Interaction and how scientific innovations will change that. @ Deloitte since 2022 working as a SWE in the Cyber Risk team. Security for AI is one of my biggest focuses right now.
 
 ## Technologies 💻
 
